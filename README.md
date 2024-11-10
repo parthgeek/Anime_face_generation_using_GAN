@@ -106,18 +106,30 @@ Generator: Trains to produce images that can fool the Discriminator.
 By the end of the training, the Generator will have learned to create anime faces that are visually indistinguishable from real faces in the dataset.
 ### Sample Generated Images (1 to 25 epochs):
 After 1 epoch:
+
 ![1epoch](https://github.com/user-attachments/assets/3a7fe4ff-d5ea-48ed-89e3-c3834e330043)
+
 After 5 epoch:
+
 ![5epoch](https://github.com/user-attachments/assets/7001d01c-417b-4593-8f6a-6fc0a9e0e7b5)
+
 After 15 epoch:
+
 ![10epoch](https://github.com/user-attachments/assets/7f1d8772-56ea-4cc1-9e99-65a809b223a5)
+
 After 20 epoch:
+
 ![20epoch](https://github.com/user-attachments/assets/ee5d0bf8-0239-44d3-bbde-4f17b080b584)
+
 After 25 epoch:
+
 ![25epoch](https://github.com/user-attachments/assets/bab5a349-757e-460b-8d3c-95446b6f3303)
 
 Discriminator and Generator Loss During Training
+
 ![Loss During Training](https://github.com/user-attachments/assets/cc9b8a56-3e9e-4a2c-b384-d1307eb3df98)
+
 Real and Fake Score of the Discriminator
+
 ![Score of the Discriminator](https://github.com/user-attachments/assets/18e0488d-228a-4b32-9004-2e67852b53a8)
 
