@@ -2,7 +2,7 @@
 
 This project demonstrates the use of Generative Adversarial Networks (GANs) to generate images of anime characters. GANs consist of two networks: a **Generator** that creates fake images from random noise, and a **Discriminator** that differentiates between real and fake images. This adversarial process helps the generator learn to produce increasingly realistic images.
 
-In this project, we use the [Anime Face Dataset](https://github.com/Mckinsey666/Anime-Face-Dataset) to train a GAN to generate 64x64 pixel images of anime faces.
+In this project, we use the [Anime Face Dataset](https://www.kaggle.com/splcher/animefacedataset) to train a GAN to generate 64x64 pixel images of anime faces.
 
 ## Table of Contents
 1. [Introduction](#introduction)
