@@ -127,9 +127,8 @@ After 25 epoch:
 
 Discriminator and Generator Loss During Training
 
-![Loss During Training](https://github.com/user-attachments/assets/cc9b8a56-3e9e-4a2c-b384-d1307eb3df98)
+![Loss During Training](https://github.com/user-attachments/assets/cbe0c408-fac5-4a5e-8bdb-d3f762e7b7ef)
 
 Real and Fake Score of the Discriminator
 
-![Score of the Discriminator](https://github.com/user-attachments/assets/18e0488d-228a-4b32-9004-2e67852b53a8)
-
+![Score of the Discriminator](https://github.com/user-attachments/assets/2706eec9-f9e5-4a49-a8a0-f8c66c9b7047)
