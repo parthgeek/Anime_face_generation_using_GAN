@@ -13,10 +13,6 @@ In this project, we use the [Anime Face Dataset](https://www.kaggle.com/splcher/
 6. [Model Architecture](#model-architecture)
 7. [Training](#training)
 8. [Results](#results)
-9. [Usage](#usage)
-10. [Contributing](#contributing)
-11. [License](#license)
-
 ---
 
 ## Introduction
